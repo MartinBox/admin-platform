@@ -1,0 +1,4 @@
+com\martinbox\platform\admanager\user\UserInfo.class
+com\martinbox\platform\admanager\log\LogInfo.class
+com\martinbox\platform\admanager\authority\PermissionInfo.class
+com\martinbox\platform\admanager\gate\ClientInfo.class

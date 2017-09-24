@@ -1,0 +1,15 @@
+com\martinbox\platform\admanager\bean\Page.class
+com\martinbox\platform\admanager\rest\BaseController.class
+com\martinbox\platform\admanager\util\EntityUtils.class
+com\martinbox\platform\admanager\msg\ListRestResponse.class
+com\martinbox\platform\admanager\util\ClientUtil.class
+com\martinbox\platform\admanager\web\ParameterRequestWrapper.class
+com\martinbox\platform\admanager\msg\TableResultResponse.class
+com\martinbox\platform\admanager\biz\BaseBiz.class
+com\martinbox\platform\admanager\constant\UserConstant.class
+com\martinbox\platform\admanager\service\impl\BaseServiceImpl.class
+com\martinbox\platform\admanager\util\ReflectionUtils.class
+com\martinbox\platform\admanager\util\TreeUtil.class
+com\martinbox\platform\admanager\service\BaseService.class
+com\martinbox\platform\admanager\vo\TreeNode.class
+com\martinbox\platform\admanager\msg\ObjectRestResponse.class
