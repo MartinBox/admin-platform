@@ -1,7 +1,0 @@
-com\martinbox\platform\admanager\ui\controller\HomeController.class
-com\martinbox\platform\admanager\ui\config\WebConfig.class
-com\martinbox\platform\admanager\ui\controller\BaseController.class
-com\martinbox\platform\admanager\ui\UIBootstrap.class
-com\martinbox\platform\admanager\ui\controller\BlogController.class
-com\martinbox\platform\admanager\ui\rpc\IUserService.class
-com\martinbox\platform\admanager\ui\controller\UserPermissionController.class
